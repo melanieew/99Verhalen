@@ -1,0 +1,2 @@
+# 99Verhalen
+De opdracht is ontwerp & maak een website om online verhalen te lezen voor op reis. De website wordt responsive en past binnen de huisstijl van de opdrachtgever. De verhalen worden uniek vormgegeven in een stijl die aansluit bij de tone-of-voice van het verhaal. Het wordt een seamless multi-device experience. Bezoekers kunnen verhalen vinden en lezen, en misschien opslaan. Ook moeten bezoekers zelf iets kunnen achterlaten, zoals een reactie, een like, of een foto.
